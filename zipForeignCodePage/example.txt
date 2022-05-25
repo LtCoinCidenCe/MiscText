@@ -1,0 +1,1 @@
+7z x .\KizunaAkari.zip -mcp=932
