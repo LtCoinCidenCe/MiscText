@@ -50,6 +50,7 @@ InfestationPit/Drone=F,I
 Lair/Hatchery=T,L
 Land=J,L
 Liberator/Starport=F,N
+LiberatorAGMode/Liberator=C,E
 Lift=J,L
 Marine/Barracks=A,T
 MedivacSpeedBoost/Medivac=F,B
