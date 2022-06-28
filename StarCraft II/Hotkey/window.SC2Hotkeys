@@ -62,6 +62,7 @@ ResearchBallisticRange/StarportTechLab=D,N
 ResearchBattlecruiserSpecializations/FusionCore=R,Y
 SCV=E
 SISCV=E
+SwarmHostMP/Larva=Q
 Ultralisk/Larva=X,U
 UltraliskCavern/Drone=X,U
 UpgradeToPlanetaryFortress/CommandCenter=Z,P
