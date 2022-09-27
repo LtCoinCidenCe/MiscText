@@ -1,0 +1,114 @@
+[
+  {
+    "id": "qclikeGameSettings",
+    "author": "CoinCidenCe",
+    "title": "QC like Duel",
+    "description": "Quake Champions like duel game settings",
+    "basegt": "duel",
+    "cvars": {
+      "timelimit": "10",
+      "g_itemHeight": "15",
+      "g_itemTimers": "0",
+      "pmove_BunnyHop": "0",
+      "pmove_CrouchStepJump": "0",
+      "pmove_JumpTimeDeltaMin": "50",
+      "pmove_WaterSwimScale": "0.5f",
+      "pmove_WaterWadeScale": "0.75f",
+      "g_damage_mg": "6",
+      "g_damage_pg": "25",
+      "g_splashdamage_pg": "20",
+      "weapon_reload_pg": "125",
+      "g_splashdamage_rl": "100",
+      "g_knockback_lg": "2",
+      "g_spawnMinDistance": "1000",
+      "g_respawn_delay_max": "5000",
+      "g_startingarmor": "50",
+      "dmflags": "16",
+      "g_spawnItemAmmo": "0",
+      "fraglimit": "20",
+      "g_overtime": "0"
+    }
+  },
+  {
+    "id": "ffaNoPickUp",
+    "author": "CoinCidenCe",
+    "title": "Easy FFA",
+    "description": "Make FFA easier",
+    "basegt": "ffa",
+    "cvars": {
+      "g_itemHeight": "50",
+      "g_startingarmor": "100",
+      "g_spawnItemPowerup": "0",
+      "dmflags": "16",
+      "g_damage_mg": "8",
+      "g_knockback_lg": "2",
+      "g_damage_rg": "75",
+      "g_itemTimers": "1",
+      "g_spawnItemAmmo": "1",
+      "g_spawnItemWeapons": "1",
+      "g_startingWeapons": "255",
+      "g_respawn_delay_max": "5000",
+      "fraglimit": "50",
+      "timelimit": "10",
+      "g_voteFlags": "2048"
+    }
+  },
+  {
+    "id": "rocketsFFA",
+    "author": "CoinCidenCe",
+    "title": "Dadehaoburujiedehao",
+    "description": "All rocket direct hits",
+    "basegt": "ffa",
+    "cvars": {
+      "g_itemHeight": "50",
+      "g_startingarmor": "100",
+      "g_spawnItemPowerup": "0",
+      "g_spawnItemAmmo": "0",
+      "g_spawnItemWeapons": "0",
+      "g_infiniteAmmo": "1",
+      "dmflags": "16",
+      "g_damage_rl": "400",
+      "g_splashdamage_rl": "10",
+      "g_itemTimers": "1",
+      "g_startingWeapons": "17",
+      "fraglimit": "50",
+      "timelimit": "10",
+      "g_voteFlags": "2048"
+    }
+  },
+  {
+    "id": "FFAbutZombie",
+    "author": "CoinCidenCe",
+    "title": "FFA but Zombie",
+    "description": "Bots are zombies",
+    "basegt": "ffa",
+    "cvars": {
+      "bot_gauntletOnly": "1",
+      "g_startingarmor": "50",
+      "dmflags": "16",
+      "g_itemTimers": "1",
+      "g_spawnItemAmmo": "1",
+      "g_spawnItemWeapons": "1",
+      "fraglimit": "50",
+      "timelimit": "10",
+      "g_voteFlags": "2048"
+    }
+  },
+  {
+    "id": "TeamCCC",
+    "author": "CoinCidenCe",
+    "title": "Team Deathmatch CCC",
+    "description": "Slightly modified TDM",
+    "basegt": "tdm",
+    "cvars": {
+      "g_loadout": "0",
+      "g_dropCmds": "7",
+      "dmflags": "16",
+      "timelimit": "10",
+      "fraglimit": "75",
+      "g_startingarmor": "50",
+      "g_itemHeight": "50",
+      "g_weaponrespawn": "1"
+    }
+  }
+]
