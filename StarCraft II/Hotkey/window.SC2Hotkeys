@@ -65,6 +65,7 @@ ResearchBallisticRange/FusionCore=F,N
 ResearchBallisticRange/StarportTechLab=D,N
 ResearchBattlecruiserSpecializations/FusionCore=R,Y
 ResearchHiSecAutoTracking/EngineeringBay=G
+ResearchHighCapacityBarrels/FactoryTechLab=F
 SCV=E
 SCVMengsk=E
 SISCV=E

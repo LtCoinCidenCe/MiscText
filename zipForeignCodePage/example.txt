@@ -1,1 +1,1 @@
-7z x .\KizunaAkari.zip -mcp=932
+7z x .\*.zip -o* -mcp=932
