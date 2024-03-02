@@ -34,12 +34,12 @@ CameraView7=Control+F8
 
 [Commands]
 Aberration/Larva=Q
+Attack=A,Space
 AutoTurret/Raven=C
 BuildCyclone/Factory=F,N
 Bunker/SCV=Z
 CalldownMULE/CommandCenter=S
 CalldownMULE/OrbitalCommand=S
-Cancel=Space,Escape
 CommandCenter/SCV=D
 Drone/Larva=E
 EnergizerReclamation/SentryPurifier=C
@@ -49,6 +49,7 @@ EvolveK5Cooldowns/EvolutionChamber=N
 Hive/Lair=H,T
 Immortal/RoboticsFacility=T,I
 Immortal/RoboticsFacilityWarp=T,I
+ImmortalOverload/Immortal=R
 InfestationPit/Drone=F,I
 Lair/Hatchery=T,L
 Land=J,L
