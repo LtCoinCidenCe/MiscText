@@ -62,6 +62,7 @@ MissilePods/Battlecruiser=F
 Mothership/Nexus=T,M
 MothershipCore/Nexus=G,M
 Obliterate/Spectre=E
+OracleAttack=Space,A
 RavenScramblerMissile/Raven=E
 ResearchBallisticRange/FusionCore=F,N
 ResearchBallisticRange/StarportTechLab=D,N
